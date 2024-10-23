@@ -1,6 +1,6 @@
-import "./Home.css"
+import "./Inicio.css"
 
-export function Home (){
+export function Inicio (){
     return(
         <>
 
